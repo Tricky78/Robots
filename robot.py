@@ -1,4 +1,4 @@
-print(900 * 2 * 1.25 + 100 * 1.06)
+<doctype html>
 robot_price = 900
 print(robot_price * 2 * 1.25 + 100 * 1.06)
 robot_quantity = 2
